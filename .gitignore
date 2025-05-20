@@ -1,2 +1,5 @@
 yosef-Venv-task1/
 data/
+.ipynb_chekpoints/
+__pycache__/
+*.pycd
